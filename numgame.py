@@ -1,5 +1,6 @@
 import random
 
+print(20/0)
 guess = int(random.randint() * 10)
 n = int(input("son kirit"))
 guesses = 0
